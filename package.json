@@ -1,0 +1,25 @@
+{
+  "name": "nzdatamaps",
+  "version": "1.0.0",
+  "description": "Assignment 1 - Hello World: Basic Deployment w/ Git, GitHub, Heroku   ===",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibanatoski/IQP_NZ_MAP.git"
+  },
+  "author": "Ian Banatoski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibanatoski/IQP_NZ_MAP/issues"
+  },
+  "homepage": "https://github.com/ibanatoski/IQP_NZ_MAP#readme",
+  "dependencies": {
+    "topojson": "^1.6.27"
+  },
+  "devDependencies": {
+  }
+}
