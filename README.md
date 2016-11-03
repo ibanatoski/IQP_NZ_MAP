@@ -1,3 +1,4 @@
-#New Zealand Stats Displayed Through Maps***
-##author: Ian Banatoski
-  With the help of Mike Bostock
+# New Zealand Stats Displayed Through Maps
+Author: Ian Banatoski (with the help of Mike Bostock)
+
+## Description
